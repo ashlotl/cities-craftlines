@@ -1,6 +1,5 @@
-# cities-craftlines
-Cities: Craftlines is a WIP fabric mod that aims to turn Minecraft into a city-management game.
+# Feline Industry
 
-_Fabric Loader *ONLY*_
+_Are you feline it?_
 
-_maybe forge later_
+Feline Industry is a WIP Minecraft Mod that aims to turn minecraft into a game about managing a transport network full of cats.
